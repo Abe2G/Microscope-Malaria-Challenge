@@ -12,3 +12,4 @@ The goal is to count the number of parasites on each image. We divide the whole 
     Step 1: Binary classification problem. You need to implement a machine learning model in order to classify whether a patch is postive or negative.
     Step 2: Regression problem. You need to predict the number of parasites on each image (using model trained on Step 1).
 
+I have uploaded only classification part here because the compition is on going. My model acheived 99.28% accurace on test data and Top(1st) ranked on leaderbord.
