@@ -1,4 +1,4 @@
-# SimpleMicroscopeMalariaChallenge
+# MicroscopeMalariaChallenge
 This is my Microscope Malaria Challege Customized ResNet technique
 
 Challenge Description
